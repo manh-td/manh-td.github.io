@@ -1,0 +1,40 @@
+- venue: "ACL"
+  year: "2025"
+  title: "<strong>Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference</strong><br>
+    <u>Thanh Le-Cong</u>, Bach Le, Toby Murray<br>
+    <a href=\"https://aclanthology.org/2025.acl-long.1068.pdf\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/thanhlecongg/FormalBench\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "ICSME"
+  year: "2025"
+  title: "<strong>Toward Realistic Evaluation of Just-In-Time Vulnerability Prediction</strong><br>
+    Duong Nguyen<sup>SS</sup>, <u>Thanh Le-Cong</u>, Triet Huynh Minh Le, M. Ali Babar, Quyet-Thang Huynh<br>
+    <a href=\"https://arxiv.org/pdf/2507.10729\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/AI4Code-HUST/VulGuard/\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "EASE"
+  year: "2024"
+  title: "<strong>LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss</strong><br>
+    Yen-Trang Dang<sup>SS</sup>, <u>Thanh Le-Cong</u>, Phuc-Thanh Nguyen, Anh M. T. Bui, Phuong T. Nguyen, Bach Le<br>
+    <a href=\"https://arxiv.org/pdf/2403.05873\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/AI4Code-HUST/LEGION\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "SANER"
+  year: "2023"
+  title: "<strong>Extreme Multi-Label Learning for GitHub Topic Recommendation: How Far Are We?</strong><br>
+    Ratnadira Widyasari, Zhipeng Zhao, <u>Thanh Le-Cong</u>, Hong Jin Kang, David Lo<br>
+    <a href=\"https://ieeexplore.ieee.org/document/10123501/\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a>"
+- venue: "ICSE"
+  year: "2023"
+  title: "<strong>Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports</strong><br>
+    Yunbo Lyu, <u>Thanh Le-Cong</u><sup>+</sup>, Hong Jin Kang, Ratnadira Widyasari, Zhipeng Zhao, Bach Le, Ming Li, David Lo<br>
+    <a href=\"https://arxiv.org/pdf/2301.03944\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/soarsmu/Chronos\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "FSE"
+  year: "2022"
+  title: "<strong>AutoPruner: Transformer-based Call Graph Pruning</strong><br>
+    <u>Thanh Le-Cong</u>, Hong Jin Kang, Truong-Giang Nguyen, Stefanus Agus Haryono, David Lo, Bach Le, Thang Huynh<br>
+    <a href=\"https://arxiv.org/pdf/2209.03230\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/soarsmu/AutoPruner\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "ICSME"
+  year: "2022"
+  title: "<strong>FFL: Fine-grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning</strong><br>
+    Thanh-Dat Nguyen, <u>Thanh Le-Cong</u>, Duc-Minh Luong<sup>SS</sup>, Van-Hai Duong, Bach Le, David Lo<br>
+    <a href=\"https://soarsmu.github.io/papers/2022/ICSME_FFL.pdf\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/FFL2022/FFL\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "ISSRE"
+  year: "2021"
+  title: "<strong>Better Together for Automated Repair of Web Pages</strong><br>
+    <u>Thanh Le-Cong</u>, Xuan Bach D. Le, Quyet Thang Huynh, Phi Le Nguyen<br>
+    <a href=\"https://arxiv.org/pdf/2201.00117\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/thanhlecongg/BetterTogether\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"

@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Research Engineer @ SMU"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+image: "files/images/image.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,40 +12,20 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/manh-td
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:dmtran120901@gmail.ocm
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://www.linkedin.com/in/manh-tran-0a5a52308/
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=ylyK0_8AAAAJ&hl=en
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
@@ -67,36 +47,16 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hi, I am Duc-Manh Tran (Trần Đức Mạnh).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I am a Research Engineer at Singapore Management University, working in the TITAN project with [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). Before joining SMU, I studied at HaNoi University of science and technology, under supervise of [Assoc. Prof. Huỳnh Quyết Thắng](https://soict.hust.edu.vn/psg-ts-huynh-quyet-thang.html). Upcomming PhD Candidate at University of Sydney, working with [Dr. Kang Hong Jin](https://kanghj.github.io/).
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
 
-## Experience
 
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
+I am deeply interested in Software Engineering, particularly Artificial Intelligence for code-related tasks. My research goal is to develop trustworthy AI-based tools with the assistance of domain-specific, code-related knowledge, such as static analysis. This would assist developers in identifying, preventing, and fixing vulnerabilities. I am currently working on several ongoing projects, including developing an AI agent–based vulnerability exploit generator and creating a large benchmark of Java programs to explore how static analyzers can be used in conjunction with Large Language Models.
 
 :::
 
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 ## Recent Posts
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 

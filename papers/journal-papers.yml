@@ -1,0 +1,35 @@
+- venue: "TOSEM"
+  year: "2025"
+  title: "<strong>Toward Reliable Evaluation of Neural Program Repair with Natural Robustness Testing</strong><br>
+    <u>Thanh Le-Cong</u>, Dat Nguyen, Bach Le, Toby Murray<br>
+    <a href=\"https://arxiv.org/pdf/2402.11892.pdf\" target=\"_blank\" class=\"btn btn-outline-green btn-sm me-1\">PDF</a><a href=\"https://github.com/thanhlecongg/NaturalRobustnessNPR\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "SQJ"
+  year: "2025"
+  title: "<strong>Adversarial Patch Generation for Automated Program Repair</strong><br>
+    Abdulaziz Alhefdhi, Hoa Khanh Dam, <u>Thanh Le-Cong</u>, Bach Le, Aditya Ghose<br>
+    <a href=\"https://doi.org/10.1007/s11219-025-09709-4\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a>"
+- venue: "TOSEM"
+  year: "2024"
+  title: "<strong>Refining ChatGPT-Generated Code: Characterizing and Mitigating Code Quality Issues</strong><br>
+    Yue Liu, <u>Thanh Le-Cong</u>, Ratnadira Widyasari, Chakkrit Tantithamthavorn, Li Li, Bach Le, David Lo<br>
+    <a href=\"https://dl.acm.org/doi/full/10.1145/3643674\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/yueyueL/ChatGPT-CodeGenAnalysis\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "TSE"
+  year: "2024"
+  title: "<strong>Leveraging Large Language Models for Automatic Patch Correctness Assessment</strong><br>
+    Xin Zhou, Bowen Xu, Kisub Kim, DongGyun Han, Hung Nguyen, <u>Thanh Le-Cong</u>, Junda He, Bach Le, David Lo<br>
+    <a href=\"https://ieeexplore.ieee.org/document/10659742/\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a>"
+- venue: "TSE"
+  year: "2023"
+  title: "<strong>Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning</strong><br>
+    <u>Thanh Le-Cong</u>, Duc-Minh Luong<sup>SS</sup>, Xuan Bach D. Le, David Lo, Nhat-Hoa Tran, Bui Quang-Huy<br>
+    <a href=\"https://dl.acm.org/doi/abs/10.1109/TSE.2023.3255177\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/thanhlecongg/Invalidator\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "TSE"
+  year: "2023"
+  title: "<strong>MiDas: Multi-granularity Model for Vulnerability-fixing Commit Classification</strong><br>
+    Truong-Giang Nguyen, <u>Thanh Le-Cong</u>, Hong Jin Kang, Ratnadira Widyasari, Chengran Yang, Zhipeng Zhao, Bowen Xu, Jiayuan Zhou, Xin Xia, Ahmed E. Hassan, Bach Le, David Lo<br>
+    <a href=\"https://dl.acm.org/doi/10.1109/TSE.2023.3281275\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/soarsmu/midas\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
+- venue: "InfoSys"
+  year: "2020"
+  title: "<strong>A multifactorial optimization paradigm for linkage tree genetic algorithm</strong><br>
+    Thi Thanh Binh Huynh, Dinh Thanh Pham, Ba Trung Tran, <u>Thanh Le-Cong</u>, Minh Hai Phong Le, Ananthram Swami, Thu Lam Bui<br>
+    <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0020025520305570\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a>"

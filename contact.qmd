@@ -6,19 +6,18 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Duc-Manh Tran**
 
-School
+School of Computing and Information systems
 
-College
+Research Engineer
 
-University
+Singapor Management University
 
-Address: 
+Address: Singapore Management University, 81 Victoria Street, Singapore 188065
 
-Phone: 
+Phone: +64 9016 2564
 
-E-mail: 
-
+E-mail: dmtran120901@gmail.com
 
 </center>

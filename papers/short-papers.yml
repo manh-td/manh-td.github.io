@@ -1,0 +1,5 @@
+- venue: "ICSME-Tool"
+  year: "2025"
+  title: "<strong>VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models</strong><br>
+    Duong Nguyen<sup>SS</sup>, <u>Duc-Manh Tran</u>, Thanh Le-Cong, Triet Huynh Minh Le, M. Ali Babar, Quyet-Thang Huynh<br>
+    <a href=\"https://arxiv.org/pdf/2507.16685\" target=\"_blank\" class=\"btn btn-outline-green btn-sm\">PDF</a> <a href=\"https://github.com/AI4Code-HUST/VulGuard/\" target=\"_blank\" class=\"btn btn-outline-red btn-sm\">Code</a>"
